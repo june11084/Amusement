@@ -1,0 +1,7 @@
+#adult, #minor {
+  display: none;
+}
+
+.cannotride{
+  background-color: red;
+}
